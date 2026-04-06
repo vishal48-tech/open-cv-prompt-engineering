@@ -36,16 +36,16 @@ In this repo there are currently 4 projects.
 ## Demo
 
 <h3>Subject blur</h3>
-<video src="https://raw.githubusercontent.com/vishal48-tech/open-cv-prompt-engineering/master/demo/subject_blur.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/7244a720-ba11-489c-9881-c7e3885d2145
 <br><br>
 
 <h3>Nose Point detection</h3>
-<video src="https://raw.githubusercontent.com/vishal48-tech/open-cv-prompt-engineering/master/demo/nose_point_detection.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/edfb9be8-32c2-4806-adbb-cef8b0ccfd39
 <br><br>
 
 <h3>Posture detection</h3>
-<video src="https://raw.githubusercontent.com/vishal48-tech/open-cv-prompt-engineering/master/demo/posture_detection.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/cdab871b-67e9-43af-97a3-128564964830
 <br><br>
 
 <h3>ASL detection</h3>
-<video src="https://raw.githubusercontent.com/vishal48-tech/open-cv-prompt-engineering/master/demo/sign_language.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/1b7e7660-388d-4e07-aa74-de881f987907
